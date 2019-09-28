@@ -1,6 +1,7 @@
 # kasvienkasvatusprojekti
 Monialaprojekti
 
+![alt text](https://raw.githubusercontent.com/NikoHakala/kasvienkasvatusprojekti/master/Kuvat/Kasvienkastelujarjestelma.png)
 
 Ryhmän kokoonpano:
 Forelius Juska
