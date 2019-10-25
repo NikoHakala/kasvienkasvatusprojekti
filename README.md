@@ -1,5 +1,7 @@
-# kasvienkasvatusprojekti
+# Kasvienkasvatusprojekti Tinyforest
 Monialaprojekti
+
+Frontti näkyvissä https://github.com/NikoHakala/tinyforest
 
 ![alt text](https://raw.githubusercontent.com/NikoHakala/kasvienkasvatusprojekti/master/Kuvat/Kasvienkastelujarjestelma.png)
 
