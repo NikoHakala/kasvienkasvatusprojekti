@@ -1,0 +1,21 @@
+React.js, nodejs, mitä muuta käytettiin?
+lightbox kuville bootstrap navigointi palkille, kokeilimme myös monia custom componentteja.
+
+Kerro mitä front-end tekee projektissa(johdanto).
+Front-endin tarkoituksena oli tehdä kasvin antureiden ja systeemin tietojen seuraamisesta helpompaa.
+
+System välilehdellä siis system tietoja, my plants välilehdellä kasviprofiili kohtaisesti kasvin tietoja ja joidenkin antureiden tietoja.
+
+
+Front-end kertoo 
+
+Funktionaalisuudet: mitä nappulat tekee
+Ei nappuloita kaikki pitäisi päivittyä automaattisesti.
+
+.
+Kerro vähän diipimmin lokidatan esiin tuomisesta potentiaalisesti.
+
+Lokidatan esiin tuomiseen yritimme käyttää json tiedostoa lokaalisesti, mutta tämän kanssa ilmeni ongelmia. 
+
+Parempi tapa olisi ollut tehdä joko Rest API tai tietokanta jossa tiedot olisivat helpommin saatavissa.
+
